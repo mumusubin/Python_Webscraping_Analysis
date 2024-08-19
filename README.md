@@ -3,4 +3,3 @@
 
 ### Docker Image
 * image build  
-docker build -t mumusubin/springbootreactjs:0.1 .
